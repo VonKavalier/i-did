@@ -19,7 +19,7 @@ $ ./idid.sh "Water the plants"
 ```
 
 ```
-# Show last 1ast 10 lines of the file
+# Show last 10 lines of the file
 $ ./idid.sh show
 * Message sur le ticket d'hier pour dire qu'il etait résolu
 * Investigation et apport d'une possible solution au ticket #39408
